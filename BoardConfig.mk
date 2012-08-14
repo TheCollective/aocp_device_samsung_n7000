@@ -20,6 +20,9 @@ USE_CAMERA_STUB := false
 BOARD_USES_GENERIC_AUDIO := false
 BOARD_USES_LIBSECRIL_STUB := true
 
+# NFC
+BOARD_HAS_NFC := false
+
 # CPU
 TARGET_CPU_ABI := armeabi-v7a
 TARGET_CPU_ABI2 := armeabi
