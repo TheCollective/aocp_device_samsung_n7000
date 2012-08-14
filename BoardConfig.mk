@@ -21,7 +21,7 @@ BOARD_USES_GENERIC_AUDIO := false
 BOARD_USES_LIBSECRIL_STUB := true
 
 # NFC
-BOARD_HAS_NFC := false
+BOARD_HAVE_NFC := false
 
 # CPU
 TARGET_CPU_ABI := armeabi-v7a
